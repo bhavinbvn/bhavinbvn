@@ -1,11 +1,11 @@
 # 💫 About Me:
 - 🔭 I’m currently working on DEMETER Project
 
-- 👨‍💻 All of my projects are available at [https://bhavinportfolioweb.web.app/](https://bhavinportfolioweb.web.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://bhavinportfolioweb.web.app/)
 
 - 📫 How to reach me **bvmsolutions9913@gmail.com**
 
-- 📄 Know about my experiences [https://bhavinportfolioweb.web.app/](https://bhavinportfolioweb.web.app/)
+- 📄 Know about my experiences [Here](https://bhavinportfolioweb.web.app/)
 
 
 ## 🌐 Socials:
