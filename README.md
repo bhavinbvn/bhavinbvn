@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 🔭 I’m currently working on DEMETER Project
+- 🔭 I’m currently working at TrioByte Technoloy
+- Website [Click here](https://www.triobytetechnology.in/)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://bhavinportfolioweb.web.app/)
 
